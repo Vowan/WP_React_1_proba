@@ -1,0 +1,4 @@
+sudo chgrp -R www-data /var/www/html/wordpressREST_1
+
+
+sudo chmod -R g+rwx /var/www/html/wordpressREST_1
